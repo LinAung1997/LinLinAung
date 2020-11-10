@@ -1,0 +1,2 @@
+# LinLinAung
+termux newbie
